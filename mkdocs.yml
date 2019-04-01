@@ -1,2 +1,5 @@
 site_name: Python
+nav:
+    - 面试: basic/test.md
+    - 算法: basic/algoriathm.md
 theme: readthedocs
